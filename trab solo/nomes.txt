@@ -1,0 +1,25 @@
+Tela de Login
+email
+senha
+entrar
+Ajuda
+
+Conta
+nome
+email
+número
+artistapref
+bandapref
+estilomusicalpref
+tempoescutado
+playlistpref
+músicapref
+plano
+desativar
+
+Tela Inicial:
+
+Pesquisar
+topmundial
+topbrasil
+topforro
